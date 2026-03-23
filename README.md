@@ -1,5 +1,5 @@
 📝 To-Do List Application
--A modern, responsive, and user-friendly To-Do List application built using HTML, CSS, and JavaScript.
+- A modern, responsive, and user-friendly To-Do List application built using HTML, CSS, and JavaScript.
 This project demonstrates core frontend development concepts such as DOM manipulation, event handling, and dynamic UI updates.
 
 🌐 Live Demo: https://qurat-ul-ain-memon.github.io/ToDo-List-App/
