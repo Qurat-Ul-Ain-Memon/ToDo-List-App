@@ -1,21 +1,59 @@
-📌 To-Do List App
+To-Do List Application
+- A modern, responsive, and user-friendly To-Do List application built using HTML, CSS, and JavaScript.
+This project demonstrates core frontend development concepts such as DOM manipulation, event handling, and dynamic UI updates.
 
-- A simple and responsive To-Do List Application built using HTML, CSS, and JavaScript. This app helps users manage daily tasks efficiently by allowing them to add, delete, and mark tasks as completed.
+🌐 Live Demo
+👉 View Live Demo
 
-- 🚀 Features
-- ➕ Add new tasks
-- ✅ Mark tasks as completed
-- ❌ Delete tasks
-- 💾 Data saved using Local Storage
-- 📱 Fully responsive design
+🚀 Features
+- ➕ Add new tasks dynamically
+- ✔️ Mark tasks as completed
+- 🗑️ Delete tasks individually
+- 📱 Fully responsive across devices
+- 🎨 Clean and minimal UI design
+- ⚡ Smooth and interactive user experience
 - 🛠️ Technologies Used
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
+- HTML5 – Structure and layout
+- CSS3 – Styling and responsive design
+- JavaScript (ES6) – Application logic and interactivity.
+  
+```📂 Project Structure
+todo-list/
+│── index.html      # Main HTML file
+│── style.css       # Styling and layout
+│── script.js       # JavaScript functionality
+└── README.md       # Project documentation
+```
 
-🎯 Purpose
+⚙️ Installation & Usage
+- To run this project locally, follow these steps:
 
-- This project is created to improve productivity and demonstrate basic front-end development skills, including DOM manipulation and local storage handling.
+# Clone the repository
+git clone https://github.com/your-username/todo-list.git
 
-🔗 Live Demo
-- Click here to view the project
+# Navigate to the project folder
+cd todo-list
+
+# Open the application
+Open index.html in your browser
+
+🧠 How It Works
+- The user enters a task in the input field
+- Clicking the Add button adds the task to the list.
+
+Each task can be:
+✔️ Marked as completed
+🗑️ Deleted from the list
+The interface updates dynamically using JavaScript
+🎯 Future Improvements
+✏️ Edit task functionality
+🔔 Add reminders and due dates
+🌙 Dark mode support
+📊 Task filtering (All / Completed / Pending)
+💾 Backend integration for cloud storage.
+
+👩‍💻 Author
+- Qurat-Ul-Ain
+
+GitHub: your-username
+Live Project: View Live Demo.
