@@ -4,14 +4,14 @@ This project demonstrates core frontend development concepts such as DOM manipul
 
 🌐 Live Demo: https://qurat-ul-ain-memon.github.io/ToDo-List-App/
 
-🚀 Features
-➕ Add new tasks dynamically
-✔️ Mark tasks as completed
-🗑️ Delete tasks individually
-📱 Fully responsive across devices
-🎨 Clean and minimal UI design
-⚡ Smooth and interactive user experience
-🛠️ Technologies Used
+- 🚀 Features
+- ➕ Add new tasks dynamically
+- ✔️ Mark tasks as completed
+- 🗑️ Delete tasks individually
+- 📱 Fully responsive across devices
+- 🎨 Clean and minimal UI design
+- ⚡ Smooth and interactive user experience
+- 🛠️ Technologies Used
 - HTML5 – Structure and layout
 - CSS3 – Styling and responsive design
 - JavaScript (ES6) – Application logic and interactivity.
@@ -42,15 +42,15 @@ todo-list/
 🗑️ Deleted from the list
 -The interface updates dynamically using JavaScript.
 
-🎯 Future Improvements
-✏️ Edit task functionality
-🔔 Add reminders and due dates
-🌙 Dark mode support
-📊 Task filtering (All / Completed / Pending)
-💾 Backend integration for cloud storage
+- 🎯 Future Improvements
+- ✏️ Edit task functionality
+- 🔔 Add reminders and due dates
+- 🌙 Dark mode support
+- 📊 Task filtering (All / Completed / Pending)
+- 💾 Backend integration for cloud storage
 
 👩‍💻 Author
 - Qurat-Ul-Ain.
 
-💻 GitHub: qurat-ul-ain-memon
-🌐 Live Project: View Live Demo
+-💻 GitHub: qurat-ul-ain-memon
+-🌐 Live Project: View Live Demo
