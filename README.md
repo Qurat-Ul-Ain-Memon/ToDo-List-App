@@ -35,14 +35,15 @@ todo-list/
 - Open index.html in your browser
 
 🧠 How It Works
--The user enters a task in the input field
--Clicking the Add button adds the task to the list
--Each task can be:
-✔️ Marked as completed
-🗑️ Deleted from the list
--The interface updates dynamically using JavaScript.
+- The user enters a task in the input field
+- Clicking the Add button adds the task to the list
 
-- 🎯 Future Improvements
+Each task can be:
+- ✔️ Marked as completed
+- 🗑️ Deleted from the list
+- The interface updates dynamically using JavaScript.
+
+🎯 Future Improvements:
 - ✏️ Edit task functionality
 - 🔔 Add reminders and due dates
 - 🌙 Dark mode support
@@ -52,5 +53,5 @@ todo-list/
 👩‍💻 Author
 - Qurat-Ul-Ain.
 
--💻 GitHub: qurat-ul-ain-memon
--🌐 Live Project: View Live Demo
+- 💻 GitHub: qurat-ul-ain-memon
+- 🌐 Live Project: View Live Demo
