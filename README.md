@@ -53,5 +53,7 @@ Each task can be:
 👩‍💻 Author
 - Qurat-Ul-Ain.
 
-- 💻 GitHub: qurat-ul-ain-memon
-- 🌐 Live Project: View Live Demo
+🌐 Live Demo: https://qurat-ul-ain-memon.github.io/ToDo-List-App/
+
+💻 GitHub Repository: https://github.com/qurat-ul-ain-memon/ToDo-List-App
+
